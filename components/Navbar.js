@@ -7,7 +7,7 @@ const Navbar = () => {
     <div className={styles.description}>
       <Link href="/">
         <p>
-          GENDER DIVERSITY IN TECH:&nbsp;
+          {/* GENDER DIVERSITY IN TECH:&nbsp; */}
           <code className={styles.code}>POWER UP THOSE SKILLS</code>
         </p>
       </Link>
