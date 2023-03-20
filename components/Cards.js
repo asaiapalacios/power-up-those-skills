@@ -27,6 +27,15 @@ const Cards = () => {
         </ul>
       </span>
 
+      <span className={styles.card}>
+        <h2 className={inter.className}>
+          Q&A Form <span>&darr;</span>
+        </h2>
+        <ul className={inter.className}>
+          <a href="https://docs.google.com/forms/d/e/1FAIpQLSfIOTU6Av-1TkBKyyiuuvdMV_ZLYCYfNy_dzZ-XmNMJP_hsKw/viewform?embedded=true" target="_blank" rel="noopener noreferrer"><li>Use this form to submit your questions</li></a>
+        </ul>
+      </span>
+
       <span className={styles.card2}>
         <Link href="/workshop">
           <h2 className={inter.className}>
