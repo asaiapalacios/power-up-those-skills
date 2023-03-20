@@ -20,7 +20,7 @@ const Workshop = () => {
             className={styles.board} 
             width="1350" 
             height="759.375" 
-            src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fm3paZwixXkahSki3gis3bq%2FCTD-Gender-Diversity-in-Tech-Workshop%3Fnode-id%3D0%253A1%26t%3DNgOhHox2mahh3hZf-1" 
+            src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FOkkVgOZ2IobGwROxrzybTr%2FPower-Up-Those-Skills%253A-Gender-Diversity-in-Tech-Panel-Discussion-%252B-Workshop%3Fnode-id%3D6%253A1075%26t%3DqZ5UtwhGm84s4UGY-1" 
             allowfullscreen
           ></iframe>
 
