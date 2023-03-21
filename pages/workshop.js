@@ -16,13 +16,28 @@ const Workshop = () => {
         
         <div className={styles.center}>
           {/* iframe options: w-800, h-450, w-1375 h-773.4375, w-1400 h-787.5 */}
-          <iframe 
+          {/* <iframe 
             className={styles.board} 
             width="1350" 
             height="759.375" 
             src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FOkkVgOZ2IobGwROxrzybTr%2FPower-Up-Those-Skills%253A-Gender-Diversity-in-Tech-Panel-Discussion-%252B-Workshop%3Fnode-id%3D6%253A1075%26t%3DqZ5UtwhGm84s4UGY-1" 
             allowfullscreen
-          ></iframe>
+          ></iframe> */}
+
+          <a
+            href="https://www.figma.com/file/OkkVgOZ2IobGwROxrzybTr/Power-Up-Those-Skills%3A-Gender-Diversity-in-Tech-Panel-Discussion-%2B-Workshop?node-id=0-1&t=2P0ksUn3aBHies55-0"
+            target="_blank"
+            rel="noopener noreferrer"
+            className={styles.board}
+          >
+            <img
+              src="/figma-link.png"
+              alt="FigJam link for resource board and reflections"
+              width={1126}
+              height={639}
+              priority
+            />
+          </a>
 
           {/* BACK UP GOOGLE SLIDE DECK */}
           {/* <a
